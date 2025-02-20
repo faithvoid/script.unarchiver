@@ -1,4 +1,4 @@
-## Unarchiver - Simple .rar/.zip extraction script for XBMC4Xbox.
+## Unarchiver - Simple .rar/.zip extraction script for XBMC4Xbox by faithvoid - https://github.com/faithvoid/script.unarchiver
 
 import xbmc
 import xbmcgui
